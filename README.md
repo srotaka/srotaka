@@ -1,31 +1,31 @@
 
-<h1 align="center">Hi!! 👋 I'm Silvia R. Otaka</h1>
-<h3> About me </h3>
+<h1 align="center">Hi!! 👋 <br> I'm Silvia R. Otaka <img align="center" src="https://cdn-icons-png.flaticon.com/512/6977/6977566.png" alt="silvia-raquel-otaka" height="40" width="40" /></h1>
+<h3> About me <img align="center" src="https://cdn-icons.flaticon.com/png/512/4069/premium/4069984.png?token=exp=1652898148~hmac=35e5236c8742878366e688ae3158be75" alt="silvia-raquel-otaka" height="30" width="30"/></h3>
 <p>
-  I discovered this exciting world of programming in 2021. Thanks to a scholarship granted by <a href="https://www.gylgroup.com/">G&L Group</a> and  <a href="https://www.icbc.com.ar/personas/">ICBC Bank</a> I was able to train for 9 months at <a href="https://eggeducacion.com/es-AR/">Egg Education</a> Academy and get the Full Stack Java Developer certificate. I not only acquired the knowledge to use tools for backend development, but I was also able to excel in frontend development for the generation of fully functional and responsive web applications. The classes at <a href="https://eggeducacion.com/es-AR/">Egg Education</a> not only provided me with technical knowledge, but also allowed me to perfect soft skills such as cooperation and teamwork. 
+  I discovered this exciting world of programming in 2021. Thanks to a scholarship granted by <a href="https://www.gylgroup.com/" target="blank">G&L Group</a> and  <a href="https://www.icbc.com.ar/personas/" target="blank">ICBC Bank</a> I was able to train for 9 months at <a href="https://eggeducacion.com/es-AR/" target="blank">Egg Education</a> Academy and get the Full Stack Java Developer certificate. I not only acquired the knowledge to use tools for backend development, but I was also able to excel in frontend development for the generation of fully functional and responsive web applications. The classes at <a href="https://eggeducacion.com/es-AR/" target="blank">Egg Education</a> not only provided me with technical knowledge, but also allowed me to perfect soft skills such as cooperation and teamwork. 
 </p>
 <p>
-This 2022 I had the opportunity to enter the <a href="https://www.alkemy.org/">Alkemy</a> Bootcamp where I developed a project with an excellent team. The experience was very enriching since from the first day a real work environment was simulated, under the Scrum ceremonies and always pointing to the importance of teamwork. As someone once said: "If you want to go fast, go alone. If you want to go far, go together".
+This 2022 I had the opportunity to enter the <a href="https://www.alkemy.org/" target="blank">Alkemy</a> Bootcamp where I developed a project with an excellent team. The experience was very enriching since from the first day a real work environment was simulated, under the Scrum ceremonies and always pointing to the importance of teamwork. As someone once said: "If you want to go fast, go alone. If you want to go far, go together".
 </p>
 <p>
-Since 2021 I am taking my first steps in the IT world as a developer in <a href="https://www.gylgroup.com/">G&L Group</a>.
+Since 2021 I am taking my first steps in the IT world as a developer in <a href="https://www.gylgroup.com/" target="blank">G&L Group</a>.
 </p>
 <p>In love with the world of programming, I continue training and learning day by day with the aim of always being ready for new challenges.
 I am currently doing the courses:
 <ul>
-  <li><b>NodeJS Web Development</b> thanks to the <a href="https://www.buenosaires.gob.ar/educacion/codo-codo">Codo a Codo 4.0</a> program granted by <a href="https://www.buenosaires.gob.ar">Buenos Aires City</a>.</li>
-<li><b>Web Programming - Front End Developer</b> thanks to the scholarship granted by the <a href="https://www.rosario.gob.ar/inicio/">Municipality of Rosario City</a> and <a href="https://www.gruposancristobal.com.ar/">Grupo San Cristóbal</a>, dictated by <a href="https://www.potrerodigital.org/">Potrero Digital</a>. </li>
+  <li><b>NodeJS Web Development</b> thanks to the <a href="https://www.buenosaires.gob.ar/educacion/codo-codo" target="blank">Codo a Codo 4.0</a> program granted by <a href="https://www.buenosaires.gob.ar" target="blank">Buenos Aires City</a>.</li>
+<li><b>Web Programming - Front End Developer</b> thanks to the scholarship granted by the <a href="https://www.rosario.gob.ar/inicio/" target="blank">Municipality of Rosario City</a> and <a href="https://www.gruposancristobal.com.ar/" target="blank">Grupo San Cristóbal</a>, dictated by <a href="https://www.potrerodigital.org/" target="blank">Potrero Digital</a>. </li>
 </ul>
 </p>
 
-- 🔭 I’m currently working on **a secret project 🕵🏽‍♀️**
+- 🔭 I’m currently working on **a secret project** <img align="center" src="https://cdn-icons.flaticon.com/png/512/3611/premium/3611260.png?token=exp=1652898783~hmac=1b912ef9ce1ce0a9643adfdc5bea63d4" alt="chef" height="30" width="30"/>
 
 - 🌱 I’m currently learning **Javascript and NodeJS**
 
-- 📫 You can reach me by <a href="mailto:srotaka@gmail.com">email</a>
+- ⚡ Fun fact: **I'm also a Sushi Chef!!** <img align="center" src="https://cdn-icons-png.flaticon.com/512/817/817322.png" alt="chef" height="30" width="30"/><img align="center" src="https://cdn-icons-png.flaticon.com/512/4474/4474860.png" alt="chef" height="30" width="30"/>
+<h3 align="left">You can reach me by email</h3>
 
-- ⚡ Fun fact: **I'm also a Sushi Chef!! 👩🏽‍🍳🍣**
-
+<a href="mailto:srotaka@gmail.com"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2514/premium/2514505.png?token=exp=1652897928~hmac=389a448b1bea73fff1822be472318da1" alt="silvia-raquel-otaka" height="40" width="40" /></a>
 <h3 align="left">You can check my profile in Linkedin!!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/silvia-raquel-otaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvia-raquel-otaka" height="30" width="40" /></a>
