@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi!! 👋 <br> I'm Silvia R. Otaka <img align="center" src="https://cdn-icons-png.flaticon.com/512/6977/6977566.png" alt="silvia-raquel-otaka" height="40" width="40" /></h1>
-<h3> About me <img align="center" src="https://cdn-icons.flaticon.com/png/512/4069/premium/4069984.png?token=exp=1652898148~hmac=35e5236c8742878366e688ae3158be75" alt="silvia-raquel-otaka" height="30" width="30"/></h3>
+<h3> About me <img align="center" src="https://cdn-icons.flaticon.com/png/512/4069/premium/4069984.png?token=exp=1652899256~hmac=6faeab3a5c184f5b662888b0a04c8511" alt="sakura" height="40" width="40"/></h3>
 <p>
   I discovered this exciting world of programming in 2021. Thanks to a scholarship granted by <a href="https://www.gylgroup.com/" target="blank">G&L Group</a> and  <a href="https://www.icbc.com.ar/personas/" target="blank">ICBC Bank</a> I was able to train for 9 months at <a href="https://eggeducacion.com/es-AR/" target="blank">Egg Education</a> Academy and get the Full Stack Java Developer certificate. I not only acquired the knowledge to use tools for backend development, but I was also able to excel in frontend development for the generation of fully functional and responsive web applications. The classes at <a href="https://eggeducacion.com/es-AR/" target="blank">Egg Education</a> not only provided me with technical knowledge, but also allowed me to perfect soft skills such as cooperation and teamwork. 
 </p>
@@ -18,11 +18,11 @@ I am currently doing the courses:
 </ul>
 </p>
 
-- 🔭 I’m currently working on **a secret project** <img align="center" src="https://cdn-icons.flaticon.com/png/512/3611/premium/3611260.png?token=exp=1652898783~hmac=1b912ef9ce1ce0a9643adfdc5bea63d4" alt="chef" height="30" width="30"/>
+- 🔭 I’m currently working on **a secret project** <img align="center" src="https://cdn-icons-png.flaticon.com/512/6970/6970498.png" alt="chef" height="40" width="40"/>
 
 - 🌱 I’m currently learning **Javascript and NodeJS**
 
-- ⚡ Fun fact: **I'm also a Sushi Chef!!** <img align="center" src="https://cdn-icons-png.flaticon.com/512/817/817322.png" alt="chef" height="30" width="30"/><img align="center" src="https://cdn-icons-png.flaticon.com/512/4474/4474860.png" alt="chef" height="30" width="30"/>
+- ⚡ Fun fact: **I'm also a Sushi Chef!!** <img align="center" src="https://cdn-icons-png.flaticon.com/512/817/817322.png" alt="chef" height="40" width="40"/><img align="center" src="https://cdn-icons-png.flaticon.com/512/4474/4474860.png" alt="chef" height="40" width="40"/>
 <h3 align="left">You can reach me by email</h3>
 
 <a href="mailto:srotaka@gmail.com"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2514/premium/2514505.png?token=exp=1652897928~hmac=389a448b1bea73fff1822be472318da1" alt="silvia-raquel-otaka" height="40" width="40" /></a>
