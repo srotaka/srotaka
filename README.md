@@ -24,7 +24,7 @@ I am currently doing the courses:
 
 - 📫 You can reach me by <a href="mailto:srotaka@gmail.com">email</a>
 
-- ⚡ Fun fact **I'm also a Sushi Chef!! 👩🏽‍🍳🍣**
+- ⚡ Fun fact: **I'm also a Sushi Chef!! 👩🏽‍🍳🍣**
 
 <h3 align="left">You can check my profile in Linkedin!!</h3>
 <p align="left">
