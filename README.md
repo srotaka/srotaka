@@ -12,18 +12,12 @@
 </p>
 <p>
 <a href="#"><img align="center" src="https://cdn-icons.flaticon.com/png/512/556/premium/556690.png?token=exp=1655298826~hmac=15f07ee7193a55bfed9d712bcb1163de" alt="bullet" height="20" width="20"/></a> In love with the world of programming, I continue training and learning day by day with the aim of always being ready for new challenges.
-I am currently doing the courses:
-<ul>
-  <a href="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/463/463574.png" alt="bullet" height="20" width="20"/></a> <b>NodeJS Web Development</b> thanks to the <a href="https://www.buenosaires.gob.ar/educacion/codo-codo" target="blank">Codo a Codo 4.0</a> program granted by <a href="https://www.buenosaires.gob.ar" target="blank">Buenos Aires City</a>.</li>
-  
-<a href="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/463/463574.png" alt="bullet" height="20" width="20"/></a> <b>Web Programming - Front End Developer</b> thanks to the scholarship granted by the <a href="https://www.rosario.gob.ar/inicio/" target="blank">Municipality of Rosario City</a> and <a href="https://www.gruposancristobal.com.ar/" target="blank">Grupo San Cristóbal</a>, dictated by <a href="https://www.potrerodigital.org/" target="blank">Potrero Digital</a>. </li>
-</ul>
 </p>
 <p>
 <a href="#"><img align="center" src="https://cdn-icons.flaticon.com/png/512/556/premium/556690.png?token=exp=1655298826~hmac=15f07ee7193a55bfed9d712bcb1163de" alt="bullet" height="20" width="20"/></a> I’m currently working on <b>a secret project</b><a href="#"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/6970/6970498.png" alt="detective" height="40" width="40"/></a>
 </p>
 <p>
-<a href="#"><img align="center" src="https://cdn-icons.flaticon.com/png/512/556/premium/556690.png?token=exp=1655298826~hmac=15f07ee7193a55bfed9d712bcb1163de" alt="bullet" height="5"/></a> I’m currently learning <b>Javascript and NodeJS</b> <a href="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4297/4297861.png" alt="study" height="50" width="50"/></a>
+<a href="#"><img align="center" src="https://cdn-icons.flaticon.com/png/512/556/premium/556690.png?token=exp=1655298826~hmac=15f07ee7193a55bfed9d712bcb1163de" alt="bullet" height="20"/></a> I’m currently learning <b>Javascript and React</b> <a href="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4297/4297861.png" alt="study" height="50" width="50"/></a>
 </p>
 <p>
 <a href="#"><img align="center" src="https://cdn-icons.flaticon.com/png/512/556/premium/556690.png?token=exp=1655298826~hmac=15f07ee7193a55bfed9d712bcb1163de" alt="bullet" height="20" width="20"/></a> Fun fact: <b>I'm also a Sushi Chef!!</b><a href="#"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/817/817322.png" alt="chef" height="40" width="40"/></a><a href="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4474/4474860.png" alt="sushi" height="40" width="40"/></a>
