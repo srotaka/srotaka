@@ -8,7 +8,7 @@
 <a href="#"><img align="center" src="https://fnxlabs.net.ar/files/right-arrow.png" alt="bullet" height="20" width="20"/></a> This 2022 I had the opportunity to enter the <a href="https://www.alkemy.org/" target="blank">Alkemy</a> Bootcamp where I developed a project with an excellent team. The experience was very enriching since from the first day a real work environment was simulated, under the Scrum ceremonies and always pointing to the importance of teamwork. As someone once said: "If you want to go fast, go alone. If you want to go far, go together".
 </p>
 <p>
-<a href="#"><img align="center" src="https://fnxlabs.net.ar/files/right-arrow.png" alt="bullet" height="20" width="20"/></a> Since 2021 I am taking my first steps in the IT world as a developer in <a href="https://www.gylgroup.com/" target="blank">G&L Group</a>.
+<a href="#"><img align="center" src="https://fnxlabs.net.ar/files/right-arrow.png" alt="bullet" height="20" width="20"/></a> Since 2021 I am taking my first steps in the IT world as a developer. I'm currently working in <a href="https://www.thesinapiteam.com/" target="blank">Sinapi LLC</a>.
 </p>
 <p>
 <a href="#"><img align="center" src="https://fnxlabs.net.ar/files/right-arrow.png" alt="bullet" height="20" width="20"/></a> In love with the world of programming, I continue training and learning day by day with the aim of always being ready for new challenges.
