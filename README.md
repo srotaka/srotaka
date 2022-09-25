@@ -17,7 +17,7 @@
 <a href="#"><img align="center" src="https://fnxlabs.net.ar/files/right-arrow.png" alt="bullet" height="20" width="20"/></a> I’m currently working on <b>a secret project</b><a href="#"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/6970/6970498.png" alt="detective" height="40" width="40"/></a>
 </p>
 <p>
-<a href="#"><img align="center" src="https://fnxlabs.net.ar/files/right-arrow.png" alt="bullet" height="20"/></a> I’m currently learning <b>Javascript and React</b> <a href="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4297/4297861.png" alt="study" height="50" width="50"/></a>
+<a href="#"><img align="center" src="https://fnxlabs.net.ar/files/right-arrow.png" alt="bullet" height="20"/></a> I’m currently learning <b>PHP</b> <a href="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4297/4297861.png" alt="study" height="50" width="50"/></a>
 </p>
 <p>
 <a href="#"><img align="center" src="https://fnxlabs.net.ar/files/right-arrow.png" alt="bullet" height="20" width="20"/></a> Fun fact: <b>I'm also a Sushi Chef!!</b><a href="#"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/817/817322.png" alt="chef" height="40" width="40"/></a><a href="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4474/4474860.png" alt="sushi" height="40" width="40"/></a>
