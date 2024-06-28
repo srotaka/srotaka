@@ -30,7 +30,7 @@
 </li>
 </p>
 <p align="left">
-<li>You can reach me by email by clicking the next cute icon <a href="mailto:srotaka@gmail.com"><img align="center" src="https://www.flaticon.com/free-icon/open-email_1161724" alt="email" height="40" width="40" /></a></p>
+<li>You can reach me by email by clicking the next cute icon <a href="mailto:srotaka@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1161724.png" alt="email" height="40" width="40" /></a></p>
 </li>
 <p align="left">
 <li> And you can check my profile in Linkedin by clicking here  <a href="https://linkedin.com/in/silvia-raquel-otaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
