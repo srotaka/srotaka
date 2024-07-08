@@ -5,13 +5,13 @@
  </a> 
  <br> I'm Silvia R. Otaka 
  <a href="#">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/6977/6977566.png" alt="sakura-tree" height="40" width="40" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/6977/6977566.png" alt="sakura-tree" height="40" />
  </a>
 </h1>
 
 <h3>
  <a href="#">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1762/1762755.png" alt="sakura" height="40" width="40"/>
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1762/1762755.png" alt="sakura" height="25"/>
  </a> 
  About me 
 </h3>
@@ -54,28 +54,28 @@
 <p>
  <li>
  I’m currently working on <b>a secret project</b>
-  <a href="#"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/6970/6970498.png" alt="detective" height="40" width="40"/></a>
+  <a href="#"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/6970/6970498.png" alt="detective" height="25"/></a>
  </li>
 </p>
 
 <p>
  <li>
   Fun fact: <b>I'm also a Sushi Chef!!</b>
-  <a href="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4474/4474860.png" alt="sushi" height="40" width="40"/></a>
+  <a href="#"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4474/4474860.png" alt="sushi" height="25"/></a>
  </li>
 </p>
 
 <p align="left">
  <li>
   You can reach me by email by clicking the next cute icon <a href="mailto:srotaka@gmail.com">
-   <img align="center" src="https://cdn-icons-png.flaticon.com/512/1161/1161724.png" alt="email" height="40" width="40" />
+   <img align="center" src="https://cdn-icons-png.flaticon.com/512/1161/1161724.png" alt="email" height="25" />
  </li>
 </p>
 
 <p align="left">
  <li> 
   And you can check my profile in Linkedin by clicking here  
-  <a href="https://linkedin.com/in/silvia-raquel-otaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/silvia-raquel-otaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" /></a>
  </li>
 </p>
 
