@@ -40,8 +40,8 @@
 </p>
 <p>
   <li>
-   Since 2021 I am taking my first steps in the IT world as a developer. I'm currently working in 
-   <a href="https://www.thesinapiteam.com/" target="blank">Sinapi LLC</a>.
+   Since 2021 I am taking my first steps in the IT world as a developer. I'm currently working at 
+   <a href="https://www.ayi.group/" target="blank">AYI Group</a>.
   </li>
 </p>
 
